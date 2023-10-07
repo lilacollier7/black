@@ -8,7 +8,7 @@ export const Bio = {
     "Crypto MASTER"
   ],
   description:
-    "As a 30 year old real estate agent and investor who started working in real estate shortly after turning 18, with over $120,000,000 in residential real estate sales since 2008, I've created this channel to share my successes, failures, and experiences in the real estate industry and to support others who are thinking of getting into the business. Oh, and I'm also obsessed with cars. A lot. So expect to see some cars uploaded to my channel. A lot. And Subscribe. Because all the cool kids are doing it. Feel free to follow me on Snapchat / Instagram: GPStephan",
+    "This channel is all about cryptocurrencies and the blockchain technology Collaborations and Business: https://jzp67fxmgab.typeform.com/to/JwuKL0Oe OBS! I never reach out on Telegram with business proposals! If you've been contacted by me on Telegram - A SCAMMER IS TRYING TO ROB YOU! My Telegram handle is @ivanontech and I never use it for business requests. All other handles are scammers, don't trust anyone. Sometimes scammers spoof our emails and send emails that look like they are from us, never trust anyone who wrote to you on Telegram. Scammer sometimes send photoshopped pictures that look like my passport, never trust anyone sending my passport.",
   github: "https://www.youtube.com/@IvanOnTech",
   resume:
     "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
