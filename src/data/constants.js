@@ -60,40 +60,40 @@ export const projects = [
   
   {
     id: 5,
-    title: "Americans Will Run Out Of Money By January 1st",
-    date: "oct 06, 2023",
+    title: "BITCOIN BIG REJECTION!! I AM STILL BULLISH",
+    date: "Oct 2, 2023",
     description:
-      "Research from the San Fransisco FED suggested that “Americans have burned through more than 90% of the “excess savings” they amassed in 2020 and 2021. What little remains, the economists estimate, is likely to be gone by the end of September. Other Federal Reserve members have also previously predicted that “excess savings would run out earlier this year - which proved to be inaccurate",
+      " *Disclaimer* Please be advised that I own a diverse portfolio of cryptocurrency as I wish to remain transparent and impartial to the cryptocurrency community at all times, and therefore, the content of my media are intended FOR GENERAL INFORMATION PURPOSES not financial advice. The information contained herein is for informational purposes only. Nothing herein shall be construed to be financial legal or tax advice. The content of this video is solely the opinions of the speaker who is not a licensed financial advisor or registered investment advisor.  Purchasing cryptocurrencies poses considerable risk of loss. The speaker does not guarantee any particular outcome. Past performance does not indicate future results This information is what was found publicly on the internet. This is all my own opinion. All information is meant for public awareness and is public domain. Please take this information and do your own research. bitcoin, cryptocurrency, crypto, altcoin, altcoin daily, blockchain, decentralized, news, best investment, top altcoins, ethereum, tron, stellar, binance, cardano,  litecoin, 2019, 2020, crash, bull run, bottom, crash, tether, bitfinex, rally, tone vays, ivan on tech, chico, video, youtube, macro, price, prediction, podcast, interview, trump, finance, stock, investment, halving, halvening, too late, when, fed, federal reserve, interest rates, rates, cut, economy, stock market, Good Morning Crypto",
     image:
       "https://raw.githubusercontent.com/lilacollier7/black/main/src/images/mq1.webp",
-    tags: ["Money", "Savings", "Investment", "Spending"],
-    category: "spending",
+    tags: ["Money", "Savings", "Investment", "Bitcoin"],
+    category: "Cryptocurrency",
     github: "https://www.youtube.com/@IvanOnTech",
-    webapp: "https://www.youtube.com/watch?v=jtoBu2kwSj0",
+    webapp: "https://www.youtube.com/watch?v=WIt9BxWUSCE",
   },
   {
     id: 6,
-    title: "BREAKING: Government Shutdown Imminent, Rates Spike, Stocks Collapse",
-    date: "Sep 26, 2023",
+    title: "I AM BUYING ALL BITCOIN I CAN GET NOW!! (uptober tomorrow)",
+    date: "Sep 30, 2023",
     description:
-      "THE GOVERNMENT SHUTDOWN: Even though Congress previously agreed to raise the total debt ceiling until 2025, how they actually allocate that money is another matter entirely. In typical situations, these budgets are agreed upon by September 30th so that all spending is predetermined throughout the following fiscal year - and if that doesn't happen - we have a government shutdown. Under the anti-deficiency act of 1884, federal agencies cannot spend or obligate any money without an appropriation from Congress. Therefore, if there is no bipartisan agreement by September 30th, federal agencies must cease all non-essential functions. This includes the collection, processing, and dissemination of government data, including employment and inflation figures, of which the Federal Reserve needs to make it’s next rate hike decision on November 1st.",
+      "*Disclaimer* Please be advised that I own a diverse portfolio of cryptocurrency as I wish to remain transparent and impartial to the cryptocurrency community at all times, and therefore, the content of my media are intended FOR GENERAL INFORMATION PURPOSES not financial advice. The information contained herein is for informational purposes only. Nothing herein shall be construed to be financial legal or tax advice. The content of this video is solely the opinions of the speaker who is not a licensed financial advisor or registered investment advisor.  Purchasing cryptocurrencies poses considerable risk of loss. The speaker does not guarantee any particular outcome. Past performance does not indicate future results. This information is what was found publicly on the internet. This is all my own opinion. All information is meant for public awareness and is public domain. Please take this information and do your own research. bitcoin, cryptocurrency, crypto, altcoin, altcoin daily, blockchain, decentralized, news, best investment, top altcoins, ethereum, tron, stellar, binance, cardano,  litecoin, 2019, 2020, crash, bull run, bottom, crash, tether, bitfinex, rally, tone vays, ivan on tech, chico, video, youtube, macro, price, prediction, podcast, interview, trump, finance, stock, investment, halving, halvening, too late, when, fed, federal reserve, interest rates, rates, cut, economy, stock market, Good Morning Crypto Ivan on Tech by Ivan Liljeqvist",
     image:
       "https://raw.githubusercontent.com/lilacollier7/black/main/src/images/mq2.webp",
     tags: ["Government", "Stock", "Rates", "Bulls"],
-    category: "web app",
+    category: "BTC",
     github: "https://www.youtube.com/@IvanOnTech",
-    webapp: "https://www.youtube.com/watch?v=keCuFwLDFUA",
+    webapp: "https://www.youtube.com/watch?v=PIXke-Rj7hc",
   },
   {
     id: 7,
-    title: "How To Buy Your First Rental Property (Step by Step)",
-    date: "Nov 19, 2018",
+    title: "RADIX BABYLON, SCRYPTO, WALLET, RADIX ENGINE AND MUCH MORE...",
+    date: "Sep 26, 2023",
     description:
-      "How to invest in real estate: Here’s exactly how you can buy your first rental property, step by step, and the process involved. Enjoy! Add me on Snapchat/Instagram: GPStephan",
+      "*Disclaimer* Please be advised that I own a diverse portfolio of cryptocurrency as I wish to remain transparent and impartial to the cryptocurrency community at all times, and therefore, the content of my media are intended FOR GENERAL INFORMATION PURPOSES not financial advice. The information contained herein is for informational purposes only. Nothing herein shall be construed to be financial legal or tax advice. The content of this video is solely the opinions of the speaker who is not a licensed financial advisor or registered investment advisor.  Purchasing cryptocurrencies poses considerable risk of loss. The speaker does not guarantee any particular outcome. Past performance does not indicate future results. This information is what was found publicly on the internet. This is all my own opinion. All information is meant for public awareness and is public domain. Please take this information and do your own research. bitcoin, cryptocurrency, crypto, altcoin, altcoin daily, blockchain, decentralized, news, best investment, top altcoins, ethereum, tron, stellar, binance, cardano,  litecoin, 2019, 2020, crash, bull run, bottom, crash, tether, bitfinex, rally, tone vays, ivan on tech, chico, video, youtube, macro, price, prediction, podcast, interview, trump, finance, stock, investment, halving, halvening, too late, when, fed, federal reserve, interest rates, rates, cut, economy, stock market, Good Morning Crypto Ivan on Tech by Ivan Liljeqvist",
     image:
       "https://raw.githubusercontent.com/lilacollier7/black/main/src/images/mq3.webp",
-    tags: ["property", "Lending", "Rental", "Housing"],
-    category: "Real Estate",
+    tags: ["property", "Lending", "Blockchain", "Crypto"],
+    category: "Bitcoin",
     github: "https://www.youtube.com/@IvanOnTech",
     webapp: "https://www.youtube.com/watch?v=bJx7_1rWC6U",
   },
