@@ -65,7 +65,7 @@ export const projects = [
     description:
       "Research from the San Fransisco FED suggested that “Americans have burned through more than 90% of the “excess savings” they amassed in 2020 and 2021. What little remains, the economists estimate, is likely to be gone by the end of September. Other Federal Reserve members have also previously predicted that “excess savings would run out earlier this year - which proved to be inaccurate",
     image:
-      "https://raw.githubusercontent.com/lilacollier7/portfolio3/main/src/images/mq1.webp",
+      "https://raw.githubusercontent.com/lilacollier7/black/main/src/images/mq1.webp",
     tags: ["Money", "Savings", "Investment", "Spending"],
     category: "spending",
     github: "https://www.youtube.com/@IvanOnTech",
@@ -78,7 +78,7 @@ export const projects = [
     description:
       "THE GOVERNMENT SHUTDOWN: Even though Congress previously agreed to raise the total debt ceiling until 2025, how they actually allocate that money is another matter entirely. In typical situations, these budgets are agreed upon by September 30th so that all spending is predetermined throughout the following fiscal year - and if that doesn't happen - we have a government shutdown. Under the anti-deficiency act of 1884, federal agencies cannot spend or obligate any money without an appropriation from Congress. Therefore, if there is no bipartisan agreement by September 30th, federal agencies must cease all non-essential functions. This includes the collection, processing, and dissemination of government data, including employment and inflation figures, of which the Federal Reserve needs to make it’s next rate hike decision on November 1st.",
     image:
-      "https://raw.githubusercontent.com/lilacollier7/portfolio3/main/src/images/mq2.webp",
+      "https://raw.githubusercontent.com/lilacollier7/black/main/src/images/mq2.webp",
     tags: ["Government", "Stock", "Rates", "Bulls"],
     category: "web app",
     github: "https://www.youtube.com/@IvanOnTech",
@@ -91,7 +91,7 @@ export const projects = [
     description:
       "How to invest in real estate: Here’s exactly how you can buy your first rental property, step by step, and the process involved. Enjoy! Add me on Snapchat/Instagram: GPStephan",
     image:
-      "https://raw.githubusercontent.com/lilacollier7/portfolio3/main/src/images/mqp.webp",
+      "https://raw.githubusercontent.com/lilacollier7/black/main/src/images/mq3.webp",
     tags: ["property", "Lending", "Rental", "Housing"],
     category: "Real Estate",
     github: "https://www.youtube.com/@IvanOnTech",
