@@ -88,7 +88,7 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Graham Stephen</Logo>
+        <Logo>Ivan on Tech</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills"></NavLink>
@@ -103,7 +103,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2023 Graha Steven. All rights reserved.
+          &copy; 2023 Ivan on Tech, All rights reserved.
         </Copyright>
 
       </FooterWrapper>
