@@ -3,15 +3,15 @@ export const Bio = {
   roles: [
     "Gold Expert",
     "Real Estate Advisor",
-    "Precious Stones MASTER",
+    "Precious Stones Master",
     "Stock Master",
-    "Crypto MASTER"
+    "Crypto Master"
   ],
   description:
     "This channel is all about cryptocurrencies and the blockchain technology Collaborations and Business: https://jzp67fxmgab.typeform.com/to/JwuKL0Oe OBS! I never reach out on Telegram with business proposals! If you've been contacted by me on Telegram - A SCAMMER IS TRYING TO ROB YOU! My Telegram handle is @ivanontech and I never use it for business requests. All other handles are scammers, don't trust anyone. Sometimes scammers spoof our emails and send emails that look like they are from us, never trust anyone who wrote to you on Telegram. Scammer sometimes send photoshopped pictures that look like my passport, never trust anyone sending my passport.",
   github: "https://www.youtube.com/@IvanOnTech",
   resume:
-    "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
+    "https://wa.me/12562156584",
   linkedin: "https://www.linkedin.com/",
   twitter: "https://twitter.com/",
   insta: "https://www.instagram.com/",
